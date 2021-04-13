@@ -3,6 +3,8 @@ Easily create perfect Sidebars!
 
 ## Features
 Perfect Multi version support [1.7-1.16]
+  - Any client version on any server version works flawlessly
+  - Full Support with ViaVersion and ProtocolSupport
 
 30 Characters on 1.7-1.12
 
