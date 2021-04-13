@@ -1,0 +1,6 @@
+name: eBoard
+main: me.eths.eboard.Main
+description: Packet Scoreboard System in Skript
+author: Eths
+version: 1.0
+depend: [Skript]
