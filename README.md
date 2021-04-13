@@ -1,4 +1,4 @@
-# eBoard
+# eBoard - Skript Addon
 Easily create perfect Sidebars!
 
 ## Features
