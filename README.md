@@ -1,6 +1,8 @@
 # eBoard - Skript Addon
 Easily create perfect Sidebars!
 
+https://forums.skunity.com/resources/eboard-1-7-1-16.1298/
+
 ## Features
 Perfect Multi version support [1.7-1.16]
   - Any client version on any server version works flawlessly
